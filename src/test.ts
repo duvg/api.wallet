@@ -1,4 +1,4 @@
-function test(): number {
+function test():number {
   return 10;
 }
 test();
