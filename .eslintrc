@@ -12,7 +12,9 @@
     },
     "rules": {
         "semi": "off",
-        "@typescript-eslint/semi": "off"
+        "@typescript-eslint/semi": "off",
+        "@typescript-eslint/strict-boolean-expressions": 0,
+
     },
     "parser": "@typescript-eslint/parser"
 }
